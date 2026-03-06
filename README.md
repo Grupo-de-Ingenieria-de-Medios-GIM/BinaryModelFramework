@@ -81,12 +81,12 @@ The proposed binary framework significantly mitigates the impact of imbalance an
 
 ## Citation
 
-If you use this codebase or find our work helpful, please cite our paper:
+If you use this codebase or find our work helpful, please cite our work:
 ```bibtex
-@article{Mogollon2026,
+@misc{Mogollon2026,
   author = {Óscar Mogollón-Gutiérrez and José Carlos Sancho Núñez and Mar Ávila and MohammadHossein Homaei and Andrés Caro},
   title = {An Innovative Binary Model Framework for Cyberattack Detection and Classification in Imbalanced Domains},
-  journal = {Tech Science Press},
+  journal = {CMC-Tech Science Press (Under Review)},
   year = {2026}
 }
 ```
