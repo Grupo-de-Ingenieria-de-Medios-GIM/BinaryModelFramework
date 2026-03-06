@@ -1,0 +1,10 @@
+DATASET_PATH: "../../Datasets/unswnb15/"
+DATASET_TRAIN: "../../Datasets/unswnb15/raw_train.npy"
+DATASET_TEST: "../../Datasets/unswnb15/raw_test.npy"
+DATASET_HEADER: "../../Datasets/unswnb15/header.csv"
+MODELS_PATH: "Models/UNSW-NB15/Balanced_SMOTE_TKL/XGBoost/"
+MODELS_RESULTS: "Models/UNSW-NB15/Balanced_SMOTE_TKL/Results/"
+LABELS: ['Analysis', 'Backdoor', 'DoS', 'Exploits', 'Fuzzers', 'Generic', 'Normal', 'Reconnaissance', 'Shellcode', 'Worms']
+LEGIT_IDX: 6
+SEED: 42
+MODEL: "DecisionTree"
